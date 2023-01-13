@@ -1,6 +1,6 @@
 .title{
   text-align: center;
-  text-shadow: 3px 3px 5px aqua;
+  text-shadow: 3px 3px 5px indigo;
 
 }
 
@@ -23,7 +23,8 @@
   width: 300px;
   height: 80px;
   border-radius: 30px;
-  background-color: aquamarine;
+  background-color:lightseagreen;
+  text-shadow: 3px 3px 5px indigo;
   font-size: large;
 }
 
@@ -37,14 +38,10 @@
   height: 250px;
   border: 1px solid black;
   border-radius: 20px;
-  background-color: rgb(0, 208, 255);
+  background-color: aqua;
 }
 .comps{
   margin: 1%;
-}
-
-.c{
-  background-color: rgb(43, 171, 226);
 }
 
 .p2{
